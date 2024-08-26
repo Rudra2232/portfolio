@@ -1,8 +1,12 @@
-# Data Scientist
+# Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Excel, SQL, Python, Power BI, Tableau
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- BA (Bachelors in arts)| West Bengal State University (_May 2022_)								       		
+- 12th (Higher Secondary) | West Bengal Council of Higher Secondary Education (2011)	 			        		
+- 10th (Secondary) | West Bengal Board of Secondary Education (2009)
+
+## Certification
+ - IT Professional certification (Google)
+ - Data Analyst certification (Google)
