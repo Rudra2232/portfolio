@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Excel, SQL, Python, Power BI, Tableau
+#### Technical Skills: Advance Excel, SQL, Python, Power BI, Tableau
 
 ## Education
 - BA (Bachelors in arts)| West Bengal State University (_May 2022_)								       		
