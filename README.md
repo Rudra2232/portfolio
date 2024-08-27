@@ -13,8 +13,10 @@
 
 ## Work Experience
  - Universal Records Forum (2013-2015)
-    ### Co-Founder
-           * Responsible for website management
-           * Creating/Editing Content for the website
-           * Scouting talents 
+### Co-Founder
+ * Responsible for website management
+   
+ * Creating/Editing Content for the website
+   
+ * Scouting talents 
 
