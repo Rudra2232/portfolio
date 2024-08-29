@@ -12,11 +12,11 @@
  - Data Analyst certification (Google)
 
 ## Work Experience
- - Universal Records Forum (2013-2015)
+
 ### Co-Founder
- * Responsible for website management
+ - Universal Records Forum (2013-2015)
    
- * Creating/Editing Content for the website
-   
- * Scouting talents 
+ <h6>Responsible for website management</h6> 
+ <h6>Creating/Editing Content for the website</h6>
+ <h6>Scouting talents</h6> 
 
