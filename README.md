@@ -27,7 +27,7 @@
  - Administering session based assessments
 
 ### IT Trainer
- <h4>ILEAD Foundation(2022 - 2023</h4> 
+ <h4>ILEAD Foundation(2022 - 2023)</h4> 
    
  - Instructing trainees in IT skills to enhance job readiness
  - Administering session based evalusations
