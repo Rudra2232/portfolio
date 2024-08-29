@@ -33,7 +33,7 @@
  - Administering session based evalusations
  - Managing various back office responsibilities including KB portal and AEBAS portal admisintration
  - Performing routine maintanance on lab computers and electronic equipments
- - 
+   
 ### MIS Head
 
  - Daily updating of project-related portals including Kaushal Bharat, Kaushal Panjee, and AEBAS
@@ -42,3 +42,10 @@
  - Participating in monthly MIS review meetings
  - Participating in ministry meetings to track and pursue new Request for Proposals (RFPs) on behalf of the company. 
  
+## Computer Exposure
+
+ - Computer Hardware and Software
+ - Microsoft Office (Word, Excel, Powerpoint)
+ - Basic knowledge about Network and Protocols
+ - SQL, R , Power Bi , Tableau
+ - Adobe Tools (Illustrator, Photoshop, After Effects, In-design)
