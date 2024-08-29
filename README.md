@@ -20,3 +20,25 @@
  - Creating/Editing Content for the website
  - Scouting talents 
 
+### IT Trainer
+ <h4>Aaradhya Foundation,PMKVY(2018 - 2020)</h4> 
+   
+ - Instructing students in IT skill development
+ - Administering session based assessments
+
+### IT Trainer
+ <h4>ILEAD Foundation(2022 - 2023</h4> 
+   
+ - Instructing trainees in IT skills to enhance job readiness
+ - Administering session based evalusations
+ - Managing various back office responsibilities including KB portal and AEBAS portal admisintration
+ - Performing routine maintanance on lab computers and electronic equipments
+ - 
+### MIS Head
+
+ - Daily updating of project-related portals including Kaushal Bharat, Kaushal Panjee, and AEBAS
+ - Managing and updating candidate and center-related data
+ - Facilitating communication and guidance to ground staff for effective coordination and team alignment
+ - Participating in monthly MIS review meetings
+ - Participating in ministry meetings to track and pursue new Request for Proposals (RFPs) on behalf of the company. 
+ 
